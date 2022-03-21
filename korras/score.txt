@@ -1,9 +1,0 @@
-2022-03-04 08:53:42;Siret;Lasteaiaõpetaja;1, 2, 3, 4, 5, 6, 7, 8
-2022-03-04 08:55:16;Taavi;Bussijuht;1, 2, 3, 4, 5, 6, 7, 8
-2022-03-04 08:56:18;Rutt;Suvila;F, G, J, K, B, D, E, D
-2022-03-04 08:56:35;Mari;Kasvuhoone;Q, W, G, D, J, D, J, D
-2022-03-04 08:56:47;Peeter;Kortermaja;S, S, G, H, H, D, S, F
-2022-03-04 08:57:03;Anu;Autojuht;D, D, D, F, D, B, D, F
-2022-03-04 08:57:15;Kadri;Elumaja;S, Z, D, G, V, F, N, ,
-2022-03-04 08:57:32;Maaria;Lasteaiaõpetaja;F, F, B, B, V, X, V, H
-2022-03-04 10:43:23;Kristina;Suvila;D, F, G, H, J, K, Ö
